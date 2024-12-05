@@ -2,6 +2,10 @@
 
 FoodyFlash is a web application that simulates a real-time food ordering management system, designed for efficient restaurant operations and seamless customer experiences.
 
+## Check it out! 
+## for customer | https://foodyflash.vercel.app/
+## for admin | https://foodyflash.vercel.app/admin
+
 ## 🌟 Features
 
 ### Admin Panel
