@@ -1,10 +1,13 @@
 # FoodyFlash 🍴
 
+![FoodyFlash Banner](https://i.ibb.co/W5sD6xQ/foodyflashlogo.png)  
+
 FoodyFlash is a web application that simulates a real-time food ordering management system, designed for efficient restaurant operations and seamless customer experiences.
 
 ## Check it out! 
-## for customer | https://foodyflash.vercel.app/
-## for admin | https://foodyflash.vercel.app/admin
+- **For Checking Table Status**: [https://foodyflash.vercel.app/](https://foodyflash.vercel.app/)  
+- **For Ordering**: [https://foodyflash.vercel.app/](https://foodyflash.vercel.app/tables/1)  
+- **For Admin**: [https://foodyflash.vercel.app/admin](https://foodyflash.vercel.app/admin)  
 
 ## 🌟 Features
 
@@ -22,13 +25,24 @@ FoodyFlash is a web application that simulates a real-time food ordering managem
 2. Customers access the menu via the URL and place their orders.
 3. Admin manages incoming orders and updates table statuses for smooth service.
 
+## 📸 Screenshots
+### Admin Panel
+![Admin Panel Screenshot](https://i.ibb.co/TTdvRfJ/Screenshot-2024-12-06-034936.png)  
+![Admin Panel Screenshot](https://i.ibb.co/XDh2q3P/Screenshot-2024-12-06-144415.png)  
+*Manage food items, tables, and customer orders.*
+
+### Customer Ordering
+![Customer Ordering Screenshot](https://i.ibb.co/ZSSHXdR/Screenshot-2024-12-06-161249.png)  
+*Place orders through a generated URL.*
+
+### Order Management
+![Order Management Screenshot](https://i.ibb.co/2cfGT3H/Screenshot-2024-12-06-034921.png)  
+*Track and manage orders in real time.*
+
 ## 🔧 Technologies Used
-- **Frontend**: React, Vite
+- **Frontend**: React, Vite, Tailwind
 - **Backend**: Firebase
 - **Database**: Firestore Database
-
-## 📸 Screenshots
-*(Add screenshots here to showcase the app features)*
 
 ## 💡 Future Enhancements
 - Real-time order notifications.
