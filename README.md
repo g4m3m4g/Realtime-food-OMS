@@ -2,12 +2,14 @@
 
 ![FoodyFlash Banner](https://i.ibb.co/W5sD6xQ/foodyflashlogo.png)  
 
+Have you ever been to buffet restaurant that you can order food as many as you want? 
+
 FoodyFlash is a web application that simulates a real-time food ordering management system, designed for efficient restaurant operations and seamless customer experiences.
 
 ## Check it out! 
 - **For Checking Table Status**: [https://foodyflash.vercel.app/](https://foodyflash.vercel.app/)  
-- **For Ordering**: [https://foodyflash.vercel.app/](https://foodyflash.vercel.app/tables/1)  
-- **For Admin**: [https://foodyflash.vercel.app/admin](https://foodyflash.vercel.app/admin)  
+- **For Ordering (demo)**: [https://foodyflash.vercel.app/tables/1](https://foodyflash.vercel.app/tables/1)  
+- **For Admin**: [https://foodyflash.vercel.app/admin](https://foodyflash.vercel.app/admin) 
 
 ## 🌟 Features
 
