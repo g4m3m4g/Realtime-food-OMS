@@ -9,7 +9,7 @@ FoodyFlash is a web application that simulates a real-time food ordering managem
 ## Check it out! 
 - **For Checking Table Status**: [https://foodyflash.vercel.app/](https://foodyflash.vercel.app/)  
 - **For Ordering (demo)**: [https://foodyflash.vercel.app/tables/1](https://foodyflash.vercel.app/tables/1)  
-- **For Admin**: [https://foodyflash.vercel.app/admin](https://foodyflash.vercel.app/admin) 
+- **For Admin**: [https://foodyflash.vercel.app/admin](https://foodyflash.vercel.app/admin) (admin@teenoi.com, 123456789)
 
 ## 🌟 Features
 
